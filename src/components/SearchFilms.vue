@@ -49,7 +49,7 @@
                 this.$router.push(`/film/${id}`)
                 setTimeout(() => {
                 location.reload();
-                }, 100)
+                }, 10000)
             },
         }
     }
