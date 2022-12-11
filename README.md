@@ -1,5 +1,7 @@
 # tmdb-vue
 
+https://alexandrav843.github.io/tmdb-vue/
+
 ## Project setup
 ```
 npm install
